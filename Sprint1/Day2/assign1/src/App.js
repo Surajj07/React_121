@@ -20,11 +20,15 @@ function App() {
   const [upi,setUpi]=useState(null)
 
   useEffect(()=>{
-    fetchdata({page,ratingOrder,costOrder,filterrating,q})
-  },[page,ratingOrder,costOrder,filterrating,q])
+    fetchdata({page,ratingOrder,costOrder,filterrating,q,cash,card,upi})
+  },[page,ratingOrder,costOrder,filterrating,q,cash,card,upi])
 
-  const fetchdata=async({page,ratingOrder,costOrder,filterrating,q})=>{
+  const fetchdata=async({page,ratingOrder,costOrder,filterrating,q,cash,card,upi})=>{
     setLoading(true)
+    const parmsforPayment={}
+    if(cash!==null)parmsforPayment["paymentMethod.cash"]=cash;
+    if(card!==null)parmsforPayment["paymentMethod.card"]=card;
+    if(upi!==null)parmsforPayment["paymentMethod.upi"]=upi;
     axios({
        method:'get',
        url:"http://localhost:3000/foods",
@@ -34,7 +38,8 @@ function App() {
          _sort:"rating,cost",
          _order:`${ratingOrder},${costOrder}`,
          rating_gte:filterrating,
-         q:q
+         q:q,
+         ...parmsforPayment
        }
     })
     .then(res=>{
@@ -66,10 +71,15 @@ function App() {
        <button disabled={ratingOrder==="dec"}  onClick={()=>setRatingOrder("dec")}>SORT BY DEC RATING</button>
        <button disabled={ratingOrder==="inc"}onClick={()=>setRatingOrder("inc")}>SORT BY inc RATING</button>
      </div>
+     <br/>
      <div>
        <button  onClick={()=>setCash(!cash)}>cash - {cash?"TRUE":"FALSE"}</button>
        <button  onClick={()=>setCard(!card)}>card - {card?"TRUE":"FALSE"}</button>
        <button  onClick={()=>setUpi(!upi)}>upi - {upi?"TRUE":"FALSE"}</button>
+       <button onClick={()=>{
+            setCash(null);
+            setCard(null);
+            setUpi(null)}}>reset</button>
      </div>
      <div>
        <h4>Filter Rating</h4>
