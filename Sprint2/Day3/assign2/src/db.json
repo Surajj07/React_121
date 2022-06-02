@@ -1,0 +1,331 @@
+{
+  "allProducts": [
+    {
+      "id": 1,
+      "pic":"https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/10187555/2019/9/26/4cc4ce57-09df-42ff-b5c3-092019d711ae1569502608755-WROGN-Men-Burgundy-Regular-Fit-Solid-Casual-Shirt-9071569502-1.jpg",
+      "brand":" WROGN",
+      "type":"Men Burgundy Slim Fit Casual Shirt",
+      "price":"1539",
+      "dis":"(30% OFF)"
+    },
+    {
+      "id": 2,
+      "pic":"https://assets.myntassets.com/f_webp,h_560,q_90,w_420/v1/assets/images/productimage/2019/11/30/3c1cac93-1754-4587-bb21-346110bd3e891575135935447-1.jpg",
+      "brand":"Hangup",
+      "type":"Men Blue & White Printed Kurta with Pyjamas & Nehru Jacket",
+      "price":"1889",
+      "dis":"(73% OFF)"
+    },
+    {
+      "id": 3,
+      "pic":"https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/17970018/2022/4/21/4ce3b543-738e-47f5-97a4-794606678da51650529963177FarahMenRedCasualShirt1.jpg",
+      "brand":"Farah",
+      "type":"Casual Shirt",
+      "price":"1539",
+      "dis":"(60% OFF)"
+    },
+    {
+      "id": 1,
+      "pic":"https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/productimage/2021/4/8/daf223ea-4fbb-414a-b250-1b75eebecf301617875814535-1.jpg",
+      "brand":"Libas",
+      "type":"Women Navy Blue Pure Cotton Floral Print Kurta with Palazzos & Dupatta",
+      "price":"1799",
+      "dis":"(50% OFF)"
+    },
+    {
+      "id": 2,
+      "pic":"https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/6939221/2018/9/12/3ae9253b-b671-4edf-95ae-1e87cad6335e1536757320812-INVICTUS-Women-White-Self-Design-Top-9841536757320568-1.jpg",
+      "brand":"her by invictus",
+      "type":"White Semi Sheer Top",
+      "price":"899",
+      "dis":"(30% OFF)"
+    },
+    {
+      "id": 3,
+      "pic":"https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/11401674/2020/7/7/2b921e1b-1ff0-464c-8478-d483252e369e1594120039142-Roadster-Women-Black-Solid-Fitted-Top-6261594120038214-1.jpg",
+      "brand":"La Zoire",
+      "type":"Pink Animal Print Ruffled Top",
+      "price":"549",
+      "dis":"(30% OFF)"
+    },
+    {
+      "id": 4,
+      "pic":"https://assets.myntassets.com/f_webp,h_560,q_90,w_420/v1/assets/images/8986051/2019/3/14/362a015b-40a0-4133-9b3c-43690bd2c71b1552565555489-Harpa-Women-Tops-4551552565554298-1.jpg",
+      "brand":"Harpa",
+      "type":"Rose & White V-Neck Striped Top",
+      "price":"575",
+      "dis":"(30% OFF)"
+    },
+    {
+      "id": 8,
+      "pic":"https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/17743912/2022/4/5/23de2d38-a8b5-4418-9de8-7db12719c1d31649148295250AnthriloBoysBlueNightsuits1.jpg",
+      "brand":" Anthrilo",
+      "type":"Boys Blue & Black Printed Cotton Night suit",
+      "price":"799",
+      "dis":"(30% OFF)"
+    },
+    {
+      "id": 9,
+      "pic":"https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/14601216/2022/2/25/736e875d-cbc2-46db-982a-e9f121c018a81645783030524ZeyoGirlsNavyBlueRedPrintedCottonNightSuit1.jpg",
+      "brand":"Zeyo",
+      "type":"Girls Navy Blue & Red Printed Cotton Night Suit",
+      "price":"899",
+      "dis":"(60% OFF)"
+    },
+    {
+      "id": 10,
+      "pic":"https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/15901130/2021/10/22/9ed7e3d7-6fe0-47ed-b06a-d80fea8595db1634905908870pspeachesGirlsBlue5.jpg",
+      "brand":" pspeaches",
+      "type":"Girls Navy Blue & Pink Pack Of 2 Night Suit",
+      "price":"1199",
+      "dis":"(70% OFF)"
+    }
+    
+  ],
+  "men": [
+    {
+      "id": 1,
+      "pic":"https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/10187555/2019/9/26/4cc4ce57-09df-42ff-b5c3-092019d711ae1569502608755-WROGN-Men-Burgundy-Regular-Fit-Solid-Casual-Shirt-9071569502-1.jpg",
+      "brand":" WROGN",
+      "type":"Men Burgundy Slim Fit Casual Shirt",
+      "price":"1539",
+      "dis":"(30% OFF)"
+    },
+    {
+      "id": 2,
+      "pic":"https://assets.myntassets.com/f_webp,h_560,q_90,w_420/v1/assets/images/productimage/2019/11/30/3c1cac93-1754-4587-bb21-346110bd3e891575135935447-1.jpg",
+      "brand":"Hangup",
+      "type":"Men Blue & White Printed Kurta with Pyjamas & Nehru Jacket",
+      "price":"1889",
+      "dis":"(73% OFF)"
+    },
+    {
+      "id": 3,
+      "pic":"https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/17970018/2022/4/21/4ce3b543-738e-47f5-97a4-794606678da51650529963177FarahMenRedCasualShirt1.jpg",
+      "brand":"Farah",
+      "type":"Casual Shirt",
+      "price":"1539",
+      "dis":"(60% OFF)"
+    },
+    {
+      "id": 4,
+      "pic":"https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/15337314/2021/12/24/dd78e4ef-3b28-4ea2-9267-4e689737312c1640347099476-HRX-by-Hrithik-Roshan-Men-Track-Pants-8301640347098797-1.jpg",
+      "brand":"HRX by Hrithik Roshan",
+      "type":"HRX By Hrithik Roshan Running Men Teal Camouflage Track Pants",
+      "price":"1539",
+      "dis":"(35% OFF)"
+    },
+    {
+      "id": 5,
+      "pic":"https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/15337158/2022/5/18/76de7f36-bf0c-4e7f-89cc-c90c2d49a3901652850862056-HRX-By-Hrithik-Roshan-Running-Men-Wet-Weather-Rapid-Dry-Bran-1.jpg",
+      "brand":"HRX by Hrithik Roshan",
+      "type":"HRX by Hrithik Roshan",
+      "price":"1539",
+      "dis":"(50% OFF)"
+    },
+    {
+      "id": 6,
+      "pic":"https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/productimage/2021/4/15/c9db31af-82c0-4dfb-819a-3756f6c4f6641618481572076-1.jpg",
+      "brand":"Dennis Lingo",
+      "type":"Men Black Slim Fit Casual Shirt",
+      "price":"684",
+      "dis":"(40% OFF)"
+    },
+    {
+      "id": 7,
+      "pic":"https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/2164410/2018/6/19/f6154681-bd6b-46d5-83ff-9b31d059f2e81529387774162-Roadster-Time-Travlr-Men-Navy--Grey-Regular-Fit-Checked-Casu-1.jpg",
+      "brand":"Roadster",
+      "type":"Time Travlr Men Navy & Grey Checked Casual Sustainable Shirt",
+      "price":"1539",
+      "dis":"(30% OFF)"
+    },
+    {
+      "id": 8,
+      "pic":"https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/2444697/2019/9/24/2a24ea5f-7a24-44b7-b509-b74bab1366691569301958780-Mast--Harbour-Men-Mustard-Yellow-Slim-Fit-Solid-Casual-Shirt-1.jpg",
+      "brand":"Mast & Harbour",
+      "type":"Men Mustard Yellow Slim Fit Solid Casual Shirt",
+      "price":"799",
+      "dis":"(45% OFF)"
+    },
+    {
+      "id": 9,
+      "pic":"https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/10064547/2019/10/4/8ad05bbb-6936-4b70-9257-b11988a545841570182863686-Roadster-Men-Blue-Super-Skinny-Fit-Mid-Rise-Clean-Look-Stret-1.jpg",
+      "brand":"Roadster",
+      "type":"Men Blue Super Skinny Fit Mid-Rise Clean Look Stretchable Jeans",
+      "price":"594",
+      "dis":"(65% OFF)"
+    },
+    {
+      "id": 10,
+      "pic":"https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/12983764/2020/12/8/17547733-4272-4c3e-84d0-e6674d96eef01607426949457-Mast--Harbour-Men-Jeans-791607426947574-1.jpg",
+      "brand":"Mast & Harbour",
+      "type":"Men Black Skinny Fit Mid-Rise Clean Look Stretchable Jeans",
+      "price":"1539",
+      "dis":"(20% OFF)"
+    }
+  ],
+  "women": [
+    {
+      "id": 1,
+      "pic":"https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/productimage/2021/4/8/daf223ea-4fbb-414a-b250-1b75eebecf301617875814535-1.jpg",
+      "brand":"Libas",
+      "type":"Women Navy Blue Pure Cotton Floral Print Kurta with Palazzos & Dupatta",
+      "price":"1799",
+      "dis":"(50% OFF)"
+    },
+    {
+      "id": 2,
+      "pic":"https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/6939221/2018/9/12/3ae9253b-b671-4edf-95ae-1e87cad6335e1536757320812-INVICTUS-Women-White-Self-Design-Top-9841536757320568-1.jpg",
+      "brand":"her by invictus",
+      "type":"White Semi Sheer Top",
+      "price":"899",
+      "dis":"(30% OFF)"
+    },
+    {
+      "id": 3,
+      "pic":"https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/11401674/2020/7/7/2b921e1b-1ff0-464c-8478-d483252e369e1594120039142-Roadster-Women-Black-Solid-Fitted-Top-6261594120038214-1.jpg",
+      "brand":"La Zoire",
+      "type":"Pink Animal Print Ruffled Top",
+      "price":"549",
+      "dis":"(30% OFF)"
+    },
+    {
+      "id": 4,
+      "pic":"https://assets.myntassets.com/f_webp,h_560,q_90,w_420/v1/assets/images/8986051/2019/3/14/362a015b-40a0-4133-9b3c-43690bd2c71b1552565555489-Harpa-Women-Tops-4551552565554298-1.jpg",
+      "brand":"Harpa",
+      "type":"Rose & White V-Neck Striped Top",
+      "price":"575",
+      "dis":"(30% OFF)"
+    },
+    {
+      "id": 5,
+      "pic":"https://assets.myntassets.com/f_webp,h_560,q_90,w_420/v1/assets/images/10604462/2019/9/11/20179c18-f2e3-40bc-8ee9-607c5403dc071568195485550-SASSAFRAS-Women-Tops-2251568195484280-1.jpg",
+      "brand":"SASSAFRAS",
+      "type":"Navy Blue Pleated Keyhole Neck Top",
+      "price":"571",
+      "dis":"(56% OFF)"
+    },
+    {
+      "id": 6,
+      "pic":"https://assets.myntassets.com/f_webp,h_560,q_90,w_420/v1/assets/images/8643215/2019/2/1/dd3ef60d-be47-4a19-93c9-8598694020281549016416015-SASSAFRAS-Women-Grey-Solid-Blouson-Top-7381549016414303-1.jpg",
+      "brand":"SASSAFRAS",
+      "type":"Women Grey Solid Layered Cropped Blouson Top",
+      "price":"539",
+      "dis":"(46% OFF)"
+    },
+    {
+      "id": 7,
+      "pic":"https://assets.myntassets.com/f_webp,h_560,q_90,w_420/v1/assets/images/8485217/2019/2/1/edf50484-83fc-414d-8563-f4462687981b1549003303097-Harpa-Women-Maroon-Solid-Bardot-Top-1111549003302968-1.jpg",
+      "brand":"Harpa",
+      "type":"Maroon Pleated Bardot Top",
+      "price":"623",
+      "dis":"(52% OFF)"
+    },
+    {
+      "id": 8,
+      "pic":"https://assets.myntassets.com/f_webp,h_560,q_90,w_420/v1/assets/images/10019827/2019/6/18/3ca6becb-d1ed-487d-8516-a958449a15061560859824804-Carlton-London-Women-Black-Solid-Top-7761560859823815-1.jpg",
+      "brand":"Carlton London",
+      "type":"Black Top With Bell Sleeves",
+      "price":"596",
+      "dis":"(30% OFF)"
+    },
+    {
+      "id": 9,
+      "pic":"https://assets.myntassets.com/f_webp,h_560,q_90,w_420/v1/assets/images/7256716/2018/8/31/75084dda-6d3f-4387-9b4a-b776dfae3a651535708100723-na-8491535708100420-1.jpg",
+      "brand":"Mayra",
+      "type":"Navy Blue Striped A-Line Top",
+      "price":"417",
+      "dis":"(58% OFF)"
+    },
+    {
+      "id": 10,
+      "pic":"https://assets.myntassets.com/f_webp,h_560,q_90,w_420/v1/assets/images/productimage/2020/10/6/49df934c-237e-4681-97f9-21338fae580c1601936086956-1.jpg",
+      "brand":"Harpa",
+      "type":"Peach-Coloured Square Neck Empire Top",
+      "price":"623",
+      "dis":"(30% OFF)"
+    }
+  ],
+  "kids": [
+    {
+      "id": 1,
+      "pic":"https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/17746504/2022/4/5/58c663a6-c87a-4d3e-913d-6aaf3981584c1649148495372AnthriloGirlsYellowNightsuits1.jpg",
+      "brand":" WROGN",
+      "type":"Men Burgundy Slim Fit Casual Shirt",
+      "price":"1539",
+      "dis":"(30% OFF)"
+    },
+    {
+      "id": 2,
+      "pic":"https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/13265104/2022/1/27/3b4525f4-c593-4863-baea-d48f693f876c1643298788444CherryCrumbleBoysNavyBlueMustardLeopardPrintedPureCottonNigh1.jpg",
+      "brand":"Cherry Crumble",
+      "type":"Boys Navy Blue & Mustard Leopard Printed Pure Cotton Night suit",
+      "price":"1249",
+      "dis":"(50% OFF)"
+    },
+    {
+      "id": 3,
+      "pic":"https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/17504974/2022/3/12/cb9c27f5-8232-42db-a98b-6370bb6178001647094372627pspeachesGirlsBlueNightsuits1.jpg",
+      "brand":"pspeaches",
+      "type":"Girls Blue & White Printed Night suit",
+      "price":"999",
+      "dis":"(30% OFF)"
+    },
+    {
+      "id": 4,
+      "pic":"https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/17581664/2022/3/19/3b919163-183b-4f57-8e3a-adb03e1d1e401647666818539AnthriloBoysNavyBlueNightsuits1.jpg",
+      "brand":"Anthrilo",
+      "type":"Boys Navy Blue Printed Pure Cotton Night suit",
+      "price":"1539",
+      "dis":"(30% OFF)"
+    },
+    {
+      "id": 5,
+      "pic":"https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/15912106/2022/5/18/6b90c144-2e91-4e75-8cf9-4588eac89db41652848477211-HERENOW-Boys-Blue-Printed-Pure-Cotton-Night-suit-93316528484-1.jpg",
+      "brand":"HERE&NOW",
+      "type":"Boys Blue Printed Pure Cotton Night suit",
+      "price":"119",
+      "dis":"(30% OFF)"
+    },
+    {
+      "id": 6,
+      "pic":"https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/17746556/2022/4/5/73d09e40-7cbe-4b6c-9382-ac25c4e483931649148366870AnthriloGirlsPinkNightsuits1.jpg",
+      "brand":"Anthrilo",
+      "type":"Girls Pink & Red Printed Cotton Night suit",
+      "price":"699",
+      "dis":"(30% OFF)"
+    },
+    {
+      "id": 7,
+      "pic":"https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/17740098/2022/4/4/19eb82d0-c1d8-48d5-bd0d-2d7ec091abfb1649075515888KidipooUnisexKidsMultiNightsuits1.jpg",
+      "brand":"Kidipoo",
+      "type":"Girls Pink & White Pure Cotton Printed Night suit",
+      "price":"1295",
+      "dis":"(30% OFF)"
+    },
+    {
+      "id": 8,
+      "pic":"https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/17743912/2022/4/5/23de2d38-a8b5-4418-9de8-7db12719c1d31649148295250AnthriloBoysBlueNightsuits1.jpg",
+      "brand":" Anthrilo",
+      "type":"Boys Blue & Black Printed Cotton Night suit",
+      "price":"799",
+      "dis":"(30% OFF)"
+    },
+    {
+      "id": 9,
+      "pic":"https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/14601216/2022/2/25/736e875d-cbc2-46db-982a-e9f121c018a81645783030524ZeyoGirlsNavyBlueRedPrintedCottonNightSuit1.jpg",
+      "brand":"Zeyo",
+      "type":"Girls Navy Blue & Red Printed Cotton Night Suit",
+      "price":"899",
+      "dis":"(60% OFF)"
+    },
+    {
+      "id": 10,
+      "pic":"https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/15901130/2021/10/22/9ed7e3d7-6fe0-47ed-b06a-d80fea8595db1634905908870pspeachesGirlsBlue5.jpg",
+      "brand":" pspeaches",
+      "type":"Girls Navy Blue & Pink Pack Of 2 Night Suit",
+      "price":"1199",
+      "dis":"(70% OFF)"
+    }
+  ]
+}
