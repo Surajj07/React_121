@@ -2,14 +2,22 @@
   text-align: center;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
-}
 
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
     animation: App-logo-spin infinite 20s linear;
   }
 }
+.buttonbase{
+  padding: 1rem;
+  font-size: 18px;
+}
+.buttonLight{
+ background-color: grey;
+ color: black;
+}
+.buttonDark{
+    background-color: black;
+    color: white;
 
+}
