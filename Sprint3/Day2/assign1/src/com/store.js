@@ -38,6 +38,6 @@ const store = legacy_createStore(reducer,intstate)
 // })
 
 // console.log(store.getstate())
-store.dispatch(incrementCountAction(0))
+store.dispatch(incrementCountAction(1))
 // store.dispatch(incrementCountAction(2))
 export default store
